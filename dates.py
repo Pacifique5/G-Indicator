@@ -9,7 +9,7 @@ dates_to_commit = [
 ]
 
 # Create a text file to commit
-file_name = "contributions.txt"
+file_name = "fique.txt"
 
 # Loop through the dates and make commits
 for date in dates_to_commit:
