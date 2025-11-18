@@ -3,7 +3,7 @@ import datetime
 import subprocess
 
 # Define the number of days to commit
-days_to_commit =20 # Change this to increase the number of days
+days_to_commit =5 # Change this to increase the number of days
 
 # Create a text file to commit
 file_name = "contributions.txt"
